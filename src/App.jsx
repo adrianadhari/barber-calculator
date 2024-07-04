@@ -28,9 +28,9 @@ function App() {
       {/* Header */}
 
       {/* Content */}
-      <div className="flex flex-col items-center justify-center py-14 space-y-8 max-w-4xl mx-auto ">
-        <FaCalculator className="text-9xl" />
-        <h2 className="text-4xl font-bold tracking-wide">KALKULATOR</h2>
+      <div className="flex flex-col items-center justify-center py-14 2xl:space-y-8 space-y-4 max-w-4xl mx-auto ">
+        <FaCalculator className="2xl:text-9xl text-7xl" />
+        <h2 className="2xl:text-4xl text-2xl font-bold tracking-wide">KALKULATOR</h2>
         <p className="text-lg tracking-widest font-medium">
           Berapa Banyak Tukang Cukur yang Dibutuhkan?
         </p>
