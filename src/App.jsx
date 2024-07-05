@@ -58,7 +58,7 @@ function App() {
       {/* Content */}
 
       {/* Footer */}
-      <div className="w-full h-40 bg-black flex items-center justify-center fixed bottom-0">
+      <div className="w-full h-40 bg-black flex items-center justify-center 2xl:fixed 2xl:bottom-0 2xl:mt-0 mt-36">
         <div className="flex flex-col space-y-6 text-center">
           <h2 className="text-white text-2xl font-semibold">Contact</h2>
           <div className="flex items-center space-x-6">
